@@ -4,3 +4,6 @@ Requires the autobot mxj dependency, which converts the midi to keystrokes
 https://sites.google.com/site/theoldmanthesea/download/
 
 -Warning- The shift/control modifiers will not reset automatically, which might result in weird behavior. If you are playing up an octave, it will continue to hold the modifier key until you press a non modified note (one that doesn't need shifted up or down in the scale). This includes if you stop playing, your computer might still think you are holding a modifier key until you press the non modified octave.
+
+
+Still in alpha and may contain bugs. Please report them if you find them.
